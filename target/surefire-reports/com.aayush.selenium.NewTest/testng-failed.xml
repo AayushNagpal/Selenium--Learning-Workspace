@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.aayush.selenium.NewTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.aayush.selenium.NewTest">
+        <methods>
+          <include name="f"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.aayush.selenium.NewTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.aayush.selenium.NewTest] -->
